@@ -10,4 +10,4 @@ A simple web-based to-do list application built with HTML, CSS, JavaScript, PHP,
 - PHP back-end with database integration
 
 📷 Screenshots
-[![To-Do App Screenshot](https://i.imgur.com/zd4fHzJ.png)](https://i.imgur.com/zd4fHzJ.png)
+[![Todo-list-screenshot.png](https://i.postimg.cc/zfsqgPMv/Todo-list-screenshot.png)](https://postimg.cc/wtkKKF9Y)
